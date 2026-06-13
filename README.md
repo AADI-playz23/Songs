@@ -12,8 +12,13 @@ A clean, neon-themed music player built as a side project. Hosted on GitHub Page
 
 ## Tech stack
 - HTML5 / CSS3 / JavaScript (vanilla)
+- **YouTube Data API v3**
 - Hosted on GitHub Pages
 
+## Acknowledgments
+- Music provided by **YouTube** and streamed via the **YouTube Data API v3**.
+- This project is for personal, educational, and non-commercial use only.
+  
 ## How to run locally
 ```bash
 git clone https://github.com/aadi-playz23/Songs.git
