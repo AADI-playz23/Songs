@@ -45,3 +45,32 @@
 git clone https://github.com/AADI-playz23/Songs.git
 cd Songs
 # Open index.html in your browser
+
+```
+
+#📁 Project Structure
+Songs/
+├── index.html          # Main player UI
+├── README.md           # Project documentation
+├── LICENSE             # MIT License
+└── PRIVACY.md          # Privacy policy for YouTube API compliance
+
+----
+
+#📄 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+---
+#🔒 Privacy Policy
+This app does not collect or store any personal data.
+For full details, please read our PRIVACY.md.
+By using this app, you agree to YouTube's Terms of Service.
+
+----
+
+#Acknowledgments
+Music and videos provided by YouTube via the YouTube Data API v3.
+
+Built as a personal, educational side project – not for commercial use.
+
+<div align="center"> <a href="https://www.youtube.com/"> <img src="https://www.youtube.com/yt/brand/media/YouTube-logo-full_color.png" alt="YouTube" width="120"> </a> <br> <small>Developed with YouTube API</small> </div> ```
