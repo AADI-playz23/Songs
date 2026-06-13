@@ -59,7 +59,6 @@ For full details, please read our PRIVACY.md.
 By using this app, you agree to YouTube's Terms of Service.
 
 ----
-
 ##Acknowledgments
 Music and videos provided by YouTube via the YouTube Data API v3.
 
