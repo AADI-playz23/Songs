@@ -40,7 +40,7 @@
 4. The original YouTube video remains accessible – standard YouTube experience is preserved.
 
 
-##📁 Project Structure
+## 📁 Project Structure
 Songs/
 ├── index.html          # Main player UI
 ├── README.md           # Project documentation
