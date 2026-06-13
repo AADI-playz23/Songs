@@ -49,19 +49,18 @@ Songs/
 
 ----
 
-##📄 License
-This project is licensed under the MIT License – see the LICENSE file for details.
 
----
-##🔒 Privacy Policy
-This app does not collect or store any personal data.
-For full details, please read our PRIVACY.md.
-By using this app, you agree to YouTube's Terms of Service.
+## 📄 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-----
-##Acknowledgments
-Music and videos provided by YouTube via the YouTube Data API v3.
+## 🔒 Privacy Policy
+This app does **not** collect or store any personal data.  
+For full details, please read our [PRIVACY.md](PRIVACY.md).  
+By using this app, you agree to YouTube's [Terms of Service](https://www.youtube.com/t/terms).
 
-Built as a personal, educational side project – not for commercial use.
+## 🙏 Acknowledgments
+- Music and videos provided by **YouTube** via the [YouTube Data API v3](https://developers.google.com/youtube/v3).
+- Built as a personal, educational side project – not for commercial use.
+
 
 <div align="center"> <a href="https://www.youtube.com/"> <img src="https://www.youtube.com/yt/brand/media/YouTube-logo-full_color.png" alt="YouTube" width="120"> </a> <br> <small>Developed with YouTube API</small> </div> ```
