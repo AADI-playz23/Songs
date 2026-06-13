@@ -48,7 +48,7 @@ cd Songs
 
 ```
 
-#📁 Project Structure
+##📁 Project Structure
 Songs/
 ├── index.html          # Main player UI
 ├── README.md           # Project documentation
@@ -57,18 +57,18 @@ Songs/
 
 ----
 
-#📄 License
+##📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ---
-#🔒 Privacy Policy
+##🔒 Privacy Policy
 This app does not collect or store any personal data.
 For full details, please read our PRIVACY.md.
 By using this app, you agree to YouTube's Terms of Service.
 
 ----
 
-#Acknowledgments
+##Acknowledgments
 Music and videos provided by YouTube via the YouTube Data API v3.
 
 Built as a personal, educational side project – not for commercial use.
