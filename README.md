@@ -14,7 +14,6 @@
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How It Works](#how-it-works)
-- [Run Locally](#run-locally)
 - [Project Structure](#project-structure)
 - [License](#license)
 - [Privacy Policy](#privacy-policy)
@@ -40,12 +39,6 @@
 3. Audio is streamed directly from YouTube (using YouTube's embedded player / iframe API).
 4. The original YouTube video remains accessible – standard YouTube experience is preserved.
 
-## 🧪 Run Locally
-```bash
-git clone https://github.com/AADI-playz23/Songs.git
-cd Songs
-# Open index.html in your browser
---------------------------------------------------------------------------------
 
 ##📁 Project Structure
 Songs/
