@@ -45,8 +45,7 @@
 git clone https://github.com/AADI-playz23/Songs.git
 cd Songs
 # Open index.html in your browser
-
-```
+--------------------------------------------------------------------------------
 
 ##📁 Project Structure
 Songs/
