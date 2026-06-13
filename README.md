@@ -18,6 +18,7 @@ A clean, neon-themed music player built as a side project. Hosted on GitHub Page
 ## Acknowledgments
 - Music provided by **YouTube** and streamed via the **YouTube Data API v3**.
 - This project is for personal, educational, and non-commercial use only.
+- By using this app, users agree to be bound by YouTube's [Terms of Service](https://www.youtube.com/t/terms).
   
 ## How to run locally
 ```bash
